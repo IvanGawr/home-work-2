@@ -1,0 +1,14 @@
+html{
+    padding: 10px 30%;
+    background: linear-gradient(to top right, rgb(178, 70, 241), rgb(211, 245, 17));
+}
+
+.header, .main, .footer{
+    border: 5px solid black;
+    padding: 20px;
+}
+
+.header__logo, .footer__logo{
+    width: 50px;
+}
+
